@@ -18,6 +18,5 @@ I'm a Computer Science Student and Upcoming Associate Software Engineer at Shell
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gaurav-van&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=gaurav-van&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
