@@ -17,6 +17,7 @@ I'm a Computer Science Student and Upcoming Associate Software Engineer at Shell
 ![](https://github-contributor-stats.vercel.app/api?username=gaurav-van&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=gaurav-van&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
 [![](https://visitcount.itsvg.in/api?id=gaurav-van&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
