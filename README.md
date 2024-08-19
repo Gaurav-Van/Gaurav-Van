@@ -1,5 +1,5 @@
 # 💫 About Me
-I'm a Computer Science Student and Upcoming Associate Software Engineer at Shell. My background is in Data Science and Machine Learning, using tools like Python, R, scikit-learn, and TensorFlow. I am interested in understanding the in-depth workings and architecture of the technologies I study and work with.<br><br> `I like to explore Different Languages, Tech Stacks or Things related to Computer Science in general`
+I'm a Associate Software Engineer at Shell. My background is in Data Science and Machine Learning, using tools like Python, R, scikit-learn, and TensorFlow. I am interested in understanding the in-depth workings and architecture of the technologies I study and work with.<br><br> `I like to explore Different Languages, Tech Stacks or Things related to Computer Science in general`
 
 
 ## 🌐 Socials
